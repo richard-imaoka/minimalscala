@@ -7,7 +7,7 @@ machine:
 dependencies:
   override:
     - docker info
-    - docker build -t learn/tutorial .
+    - docker build -t richardimaoka/minimalscala .
 
 test:
   override:
