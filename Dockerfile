@@ -1,0 +1,1 @@
+FROM lukasz/docker-scala 
